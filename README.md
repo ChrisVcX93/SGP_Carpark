@@ -1,4 +1,4 @@
-# SGP_Carpark
+# SGP_Carpark Web App
 - This app allows users to quickly find car parks nearby based on current user location 
 - User is able to selet range of car parks from 500m to 2km
 - Pyspark is used to enable to only carparks nearby are filtered and also heavy data manipulation 
